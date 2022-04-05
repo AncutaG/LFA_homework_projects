@@ -25,8 +25,8 @@ def check(word):
                 counter += 1
                 break
             
-    # if counter < len(word):
-    #     return (path, False)
+    if counter < len(word):
+        return (path, False) # the counter is a trigger for unacceptance of the word in the end
     return (path, node in final_states) #  node in final_states cand take either False or True value 
 
 input = open("Input_DFA")
