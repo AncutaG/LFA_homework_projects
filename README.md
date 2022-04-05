@@ -10,3 +10,5 @@ A simple function (a DFA check) in Python was implemented and it takes as input 
 The result component from the tuple mentioned above (*returned by the function*) is triggered by the fact that the word was/ was not checked fully.
 * So once a letter is not recognized it doesn't move further to the next node with the checking and the boolean value for the result is False. 
 * Otherwise, it moves further with the checking and the word gets accepted as language by the little  DFA.
+
+*Note*: Input_DFA2 (is anther exemple of DFA, that was checked)
