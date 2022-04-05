@@ -1,0 +1,22 @@
+5 10
+1 2 a
+1 4 b
+2 2 a
+2 3 b
+3 2 a
+3 3 b
+4 4 b
+4 5 a
+5 5 a
+5 4 b
+1
+2 2 4
+7
+aa
+bb
+bab
+ab
+bab
+bbaa
+bbba
+

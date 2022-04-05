@@ -1,0 +1,7 @@
+Cuvantul aa este ACCEPTAT cu traseul: 1 2 2
+Cuvantul bb este ACCEPTAT cu traseul: 1 4 4
+Cuvantul bab este ACCEPTAT cu traseul: 1 4 5 4
+Cuvantul ab este RESPINS.
+Cuvantul bab este ACCEPTAT cu traseul: 1 4 5 4
+Cuvantul bbaa este RESPINS.
+Cuvantul bbba este RESPINS.
