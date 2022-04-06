@@ -37,7 +37,7 @@ n, m = tuple(int(elem) for elem in input.readline().split())
 # a dictionary where the key is the node (we check pairs of nodes) and the value of key is a list of tuples 
 # each tuple has the node (destination) and the string (condition for the destination)
 
-# the list of nodes with an empty list associated
+# the adjancency list of nodes, initially with an empty list associated
 neighbours = {int(state):[] for state in range(1,n+1)}
 # input.readline().split()
 
